@@ -49,7 +49,7 @@ Others:
 
 Documentation:
 ^^^^^^^^^^^^^^
-- Fix typos (@caburu)
+- Fix typos (@caburu,@jspencer12)
 - Fix typos in PPO2 (@kvenkman)
 - Removed ``stable_baselines\deepq\experiments\custom_cartpole.py`` (@aakash94)
 - Added Google's motion imitation project
